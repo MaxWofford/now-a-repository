@@ -1,0 +1,28 @@
+.background {
+	background-color: #29afff; 
+}
+
+body {
+    background-color: #29afff;
+    font-family: "Roboto","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif; 
+    font-weight: 100;
+    margin: 0px;
+}
+
+.img-center {
+	display: flex;
+	justify-content:center;
+	align-items:flex-end;
+}
+
+.text-center {
+	margin-top: 50px; 
+	text-align: center;
+	color: white;
+	font-size: 60px; 
+}
+
+.size-fixed {
+	height: 100%; 
+	overflow: hidden;
+}
